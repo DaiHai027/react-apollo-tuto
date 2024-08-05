@@ -1,0 +1,13 @@
+node_modules
+.npmrc
+.next
+out
+.now
+.vercel
+
+# Env
+.env
+.env.*
+
+# qawolf
+artifacts
